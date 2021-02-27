@@ -49,6 +49,14 @@ GD32 WIFI 物联网
 
 
 
+### 视频演示
+
+https://www.bilibili.com/video/BV1db4y1X7mY
+
+
+
+<iframe src="//player.bilibili.com/player.html?aid=629488615&bvid=BV1db4y1X7mY&cid=303669872&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 总结
 
 从硬件方面上讲。第一次完全自主地进行电路图原理图绘制、PCB设计、PCB打样、元器件选购、元器件焊接。做了很多以前想做但一直都没做的事情。还是挺感慨的。做成自己不会的果然就会很有成就感，也是感觉自己成长最快的时候。比如SHT30芯片的焊接着实费了好大的功夫才搞定。
